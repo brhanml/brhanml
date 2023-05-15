@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brhanml
-- 👀 I’m interested in data science, bioinformatics, and machine learning!
-- 🌱 I’m currently learning C++ programming and getting familiar with machine learning.
+- 👀 I’m interested in computational biology and neuroscience!
 - 💞️ I’m looking to collaborate on Bioinformatics and Computational Biology problems!
 - 📫 How to reach me email: brhan1216@gmail.com
 
